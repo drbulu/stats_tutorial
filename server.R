@@ -13,7 +13,7 @@ library(knitr) # to load the table formatting function kable().
 # set.seed(125)
 set.seed(2055)
 # create input data frame with x and y variables, then make it noisy
-# by randomly modifying add 5 randomly selected points
+# by randomly modifying 5 randomly selected points
 projectData = as.data.frame(cbind(x = c(1:40), 
                                   y = c(1:40) + rnorm(40, mean=1, sd=4) 
                                   + rnorm(40, mean=1, sd=2) ))

@@ -169,7 +169,7 @@ shinyUI(pageWithSidebar(
                                   This app was inspired by concepts learned in the <a href="https://www.coursera.org/course/regmods">Regression Models</a> and 
                                   <a href="https://www.coursera.org/course/devdataprod">Developing Data Products</a> 
                                   classes at Coursera.
-                                  This is the 7th<sup>th</sup> part in the <a href="https://www.coursera.org/specialization/jhudatascience/1?utm_medium=listingPage">Data Science</a> 
+                                  These are the 7<sup>th</sup> and 9<sup>th</sup> parts in the <a href="https://www.coursera.org/specialization/jhudatascience/1?utm_medium=listingPage">Data Science</a> 
                                   specialisation (series of courses).
                               </p>'),
                          br(),
